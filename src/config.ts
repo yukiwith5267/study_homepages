@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = '趣味の大学数学・物理'
 export const SITE_DESCRIPTION = 'A curated list of the tech I use'
-export const HOMEPAGE_URL = 'https://myportfolio-homepages.vercel.app'
+export const HOMEPAGE_URL = 'https://portfolio-homepages.vercel.app'
